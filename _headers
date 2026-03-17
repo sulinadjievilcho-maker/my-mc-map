@@ -1,2 +1,4 @@
+/*
+  Access-Control-Allow-Origin: *
 /maps/*
   Content-Type: application/octet-stream
